@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/44862274/200154271-d48f4dff-8219-441d-81c2-0fe7f6805342.png)
+
 # Pattern Recognition Systems Project - PRS-PT-2022
 # Group5-Mobeats
 
@@ -5,6 +7,7 @@ Chiu Man Shan (Roy),
 Zhao Lutong,
 Chen Hao,
 Kuch Swee Cheng (Ethan)
+
 
 
 ## Folder structure
@@ -42,7 +45,7 @@ open game/index.html
 ```
 Or just open game/index.html
 
-### Demo
+### Real-Life Demo
 
 
 https://user-images.githubusercontent.com/44862274/200153997-916c03db-6abe-4f74-ad02-07f1d7d9fa1c.mp4
