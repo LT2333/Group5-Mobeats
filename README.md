@@ -11,7 +11,7 @@ Kuch Swee Cheng (Ethan)
 * [/data](./data): training and testing data
 * [/diagrams](./diagrams): architecture diagram
 * [/game](./game): frontend code
-* [/ml_models](./ml_models): machine learning models
+* [/ml_models](./ml_models): machine learning and CNN transfer learning models
 * [/models_output](./models_output): all the ouput models
 * [/presentations](./presentations): slides and video
 * [/report](./report): final report
