@@ -1,4 +1,11 @@
+# Pattern Recognition Systems Project - PRS-PT-2022
 # Group5-Mobeats
+
+Chiu Man Shan (Roy),
+Zhao Lutong,
+Chen Hao,
+Kuch Swee Cheng (Ethan)
+
 
 ## Folder structure
 * [/data](./data): training and testing data
