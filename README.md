@@ -8,7 +8,7 @@ Zhao Lutong,
 Chen Hao,
 Kuch Swee Cheng (Ethan)
 
-
+https://github.com/manshanchiu/Group5-Mobeats/blob/main/data_preprocessing/Motion%20Sample.gif
 
 ## Folder structure
 * [/data](./data): training and testing data
